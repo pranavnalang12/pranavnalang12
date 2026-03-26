@@ -1,5 +1,15 @@
 # 💫 About Me:
+👋 Hi, I'm Pranav Nalang  
+
 🚀 AI/ML enthusiast | Building real-world ML projects | Learning DL & DSA | Future AI Engineer
+
+🔭 Working on: AI/ML projects (Regression, NLP, real-world apps)  
+🌱 Learning: ML, DL (ANN/CNN), DSA (Python)  
+👯 Collaborating on: ML & Open-source AI  
+🤝 Need help with: Deep Learning & optimization  
+💬 Ask me about: Python, ML basics  
+⚡ Goal: Becoming an AI Engineer 🚀
+
 
 
 ## 🌐 Socials:
